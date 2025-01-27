@@ -1,0 +1,14 @@
+li.nav-item a {
+    color: #fff;
+    cursor: pointer;
+}
+
+.logo {
+    width: 70px;
+    height: auto;
+    margin-inline: 2rem;
+}
+button.navbar-toggler {
+    color: #fff;
+    background: #fff;
+}
