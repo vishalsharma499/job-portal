@@ -6,7 +6,7 @@ import { HomeComponent } from "../components/home/home.component";
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, NavbarComponent, FooterComponent, HomeComponent], // Ensure imports are correct
+  imports: [RouterOutlet, NavbarComponent, FooterComponent], // Ensure imports are correct
   templateUrl: './app.component.html', // Points to the correct HTML template
   styleUrls: ['./app.component.css'],
 })
