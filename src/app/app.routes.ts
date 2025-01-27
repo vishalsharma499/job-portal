@@ -10,4 +10,5 @@ export const routes: Routes = [
   { path: 'services', component: ServicesComponent },
   { path: 'contact', component: ContactComponent },
   { path: '', redirectTo: '/', pathMatch: 'full' },
+  
 ];
